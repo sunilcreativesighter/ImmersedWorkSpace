@@ -59,7 +59,7 @@ The number of lightmaps is optimized- This could have been further optimized wit
 
 # Sunil N #
 
-3D Technical Artist <br />
-[Art Station](https://sunilpawar.artstation.com/)
-[Facebook]([https://sunilpawar.artstation.com/](https://www.facebook.com/sunil.pawar.94064/)
-[Linkedin]([https://sunilpawar.artstation.com/](https://www.linkedin.com/in/sunil-n-ba649389/))
+***3D Technical Artist*** <br />
+[Art Station](https://sunilpawar.artstation.com/)<br />
+[Facebook](https://www.facebook.com/sunil.pawar.94064/)<br />
+[Linkedin](https://www.linkedin.com/in/sunil-n-ba649389/)
