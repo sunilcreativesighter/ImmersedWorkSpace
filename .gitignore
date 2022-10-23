@@ -1,3 +1,7 @@
 
 Library/*
  /[Ll]ibrary/
+/[Ll]ogs/*
+*.log
+/Temp/*
+
