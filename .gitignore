@@ -4,5 +4,7 @@ Library/*
 /[Ll]ogs/*
 *.log
 /Temp/*
-
+/UserSettings/*
+/AfterEffects/*
 *.dwlt
+/Recordings/*
